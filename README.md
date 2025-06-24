@@ -19,5 +19,5 @@ This is a beginner-friendly practice project that demonstrates various HTML and 
 
 9.External CSS integration
 
-📸 Preview
+
 
