@@ -1,0 +1,114 @@
+
+
+.container
+{
+    display: grid;
+    background-color: aquamarine;
+    grid-template-columns: 2fr 2fr 2fr;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+.para{
+    font-size: larger;
+    padding: 10px;
+    background-color: rgb(221, 139, 16);
+    color: rgb(4, 27, 27);
+}
+
+.con2{
+   
+    background-color: rgb(48, 239, 239);
+    text-align: center;
+    font-size: larger;
+}
+
+.con3{
+    display:grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+    background-color: palevioletred;
+    font-size:  60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: blue;
+    text-align: center;
+}
+.p1{
+    background-color: palevioletred;
+}
+
+.con4{
+    font-style: italic;
+    font-size: x-large;
+    color: brown;
+    background-image: url("https://marketplace.canva.com/EAGM8KAHvOY/1/0/1131w/canva-cream-and-white-watercolor-background-document-a4-oBRHX7H4AeY.jpg");
+     height: 500px;
+     width: auto;
+     padding: 30px;
+}
+
+/*BUTTONS 1.SIGN UP,2.LOGIN,3. HOME*/
+.button{
+    background-color: pink;
+    height: 400px;
+   padding: 20px;
+   
+}
+.b1{
+    color: violet;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: larger;
+    margin: 30px;
+}
+
+.b2{
+    background-color: aqua;
+    color: black;
+    
+    padding: 30px;
+    border-radius: 20px;
+    margin:50px;
+    font-size: larger;
+}
+/*BUTTON WITH EXTERNAL NAV LINK*/
+.butnav{
+   
+    background-color:rgb(228, 195, 200);
+    color: black;
+   font-size: larger;
+    padding: 15px;
+    border-radius: 20px;
+    margin-top: 20px;
+    
+}
+
+/* descriptive list*/
+dt{
+    display: inline;
+    font-size: 20px;
+    color: brown;
+    padding: 10px;
+    
+}
+
+/* list items without pointers */
+ul{
+    font-style: italic;
+     list-style-type: none;
+     font-weight: bold;
+
+}
+
+
+/* Highlight on hover */
+.navbar a:hover {
+  color: blue
+}
+
+.video{
+    padding: 20px;
+    padding-left : 50px;
+    background-color: blanchedalmond;
+  
+}
