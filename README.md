@@ -18,3 +18,6 @@ This is a beginner-friendly practice project that demonstrates various HTML and 
 8.Favicon usage
 
 9.External CSS integration
+
+📸 Preview
+
